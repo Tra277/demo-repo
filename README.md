@@ -15,3 +15,4 @@ quay lại hiện tại ? git checkout {brandname}
 tạo branch mới ? git checkout -b {nameOfBranch}
 di chuyển vào branch bất kì? git checkout {branchName}
 merge các branch lại với nhau ? git merge {branchName}
+giải quyết conflict thì chỉ cần git commit.
