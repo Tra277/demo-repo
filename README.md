@@ -10,3 +10,6 @@ hi, i have a youtube channel,please subscribe for me.
 trở lại một thời điểm nào đó ? git checkout "id" trong git log --oneline
 quay lại hiện tại ? git checkout {brandname}
 để xem các phân nhánh ? git branch
+tạo branch mới ? git checkout -b {nameOfBranch}
+di chuyển vào branch bất kì? git checkout {branchName}
+merge các branch lại với nhau ? git merge {branchName}
