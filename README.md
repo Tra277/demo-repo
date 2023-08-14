@@ -21,3 +21,4 @@ give the name for remote repo so you don't have to paste the link again? git rem
 git push các branch khác ? git push -u {repoName} {branchName};
 lấy một branch trên gihub về? B1:git fetch origin(from main) B2:git checkout -b {tên branch có thể đặt khác} origin/{tên branch muốn tải về}
 Có thể sử dụng Pull Request trên github để merge và git pull trên terminal để lưu lại những thay đổi.
+Những thư mục chúng ta không muốn git quan tâm tới ? B1:tạo file .gitignore B2:vứt những file muốn git ignore vào.
